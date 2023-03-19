@@ -6,7 +6,7 @@
 * Type This
 ```
 Key : token
-value : <MTA3MzUzMzgzNDg2NTQxMDEyMA.GHl4Du.SB0ufiG2HzVaCf_Er74OEijYoFCf0pySohxosc>
+value : <MTA3MzUzMzgzNDg2NTQxMDEyMA.GQAWws.LwW_L7-s24SWr2ykhs0k_0YU22yP6R_IFqWs4w>
 ```
 
 * and 
