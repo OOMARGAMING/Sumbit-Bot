@@ -6,17 +6,17 @@
 * Type This
 ```
 Key : token
-value : <your-token>
+value : <MTA3MzUzMzgzNDg2NTQxMDEyMA.GHl4Du.SB0ufiG2HzVaCf_Er74OEijYoFCf0pySohxosc>
 ```
 
 * and 
 ```
 Key : ch
-value : <sumbit-channel>
+value : <1075000140567429191>
 ```
 * And Go To `index.js`
 ```
-const prefix = "Your Prefix" 
+const prefix = "#" 
 ```
 * Go To Shell And Type This 
 ```
